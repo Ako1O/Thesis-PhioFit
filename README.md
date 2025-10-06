@@ -12,14 +12,17 @@ Users will:
 Main goal is to create a working MVP, that can be shown as a working product for future extensions and implementing new features.
 Main features of the application are:
 1.	Gamification system
+
 a.	Streaks, XP system, badges as reward, levels (optional leaderboards)
 b.	Consistent challenges (weekly or monthly ones)
 c.	Main screen with goals and results for motivation
 
 2.	Workout library
+
 a.	Different workout plans, beginner-friendly and time-friendly
 
 3.	Goal tracking
+
 a.	Goals to keep up the motivation (small ones and long-term ones)
 b.	Visual progress tracking
 c.	Adaptiveness of workouts for progression
