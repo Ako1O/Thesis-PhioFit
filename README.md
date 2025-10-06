@@ -8,6 +8,8 @@ Users will:
 - Track progress and set up a new goal with an easy interface and visual format
 - Complete the workout program step by step with instructions
 
+---
+
 **Features:**
 Main goal is to create a working MVP, that can be shown as a working product for future extensions and implementing new features.
 Main features of the application are:
