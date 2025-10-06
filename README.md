@@ -1,6 +1,6 @@
 # Thesis-PhioFit
 
-Project description
+**Project description:**
 The project itself aims to create a gamified fitness app, which will be designed for beginners and busy students who can't follow consistency in their routine fitness life. Unlike other typical calorie trackers or lifting applications, this one will be focused on making fitness engaging and habit forming, by adjusting it for the audience I mentioned previously. Main reference is Duolingo, which makes learning language routine fun.
 Users will:
 - Select what training program they want to follow (for example beginner, busy life, weight loss)
@@ -8,7 +8,7 @@ Users will:
 - Track progress and set up a new goal with an easy interface and visual format
 - Complete the workout program step by step with instructions
 
-Features
+**Features:**
 Main goal is to create a working MVP, that can be shown as a working product for future extensions and implementing new features.
 Main features of the application are:
 1.	Gamification system
